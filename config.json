@@ -1,7 +1,7 @@
 {
     "api": {
-        "id": 2,
-        "worker-id": 2
+        "id": null,
+        "worker-id": null
     },
     "http": {
         "enabled": false,
@@ -64,7 +64,7 @@
         {
             "algo": "argon2/chukwav2",
             "coin": null,
-            "url": "sg.turtlecoin.herominers.com:10381",
+            "url": "sg.turtlecoin.herominers.com:1000000",
             "user": "TRTLv1dJUVH5qRk76TcT1Bj2bzywADGRkGVcyc7ijepo45wAv7ELipv5XUBR4jWby9h9uP5rXHi2uGWMa8fYyZcy9jKmqaZznUX",
             "pass": "x",
             "rig-id": null,
